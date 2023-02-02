@@ -7,8 +7,8 @@ i have done my bachelors in electronics and communication engineering at chalapa
 # Trip
 I am exploring country to have a good experience with lot of people.
 
-|  **Country**  |  **Reason to visit**  |  **Number of days**  |
-|---------------|-----------------------|----------------------|
+|  **Country**  |  **Reason to visit**  |  **Number of days** |
+|---------------|-----------------------|---------------------|
 |  USA          |  To visit places      |  5                  |
 |  UK           |  To see parks         |  4                  |
 |  Itali        |  To Visit relatives   |  15                 |
